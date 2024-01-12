@@ -1,6 +1,6 @@
 module github.com/sqlc-dev/quickdb
 
-go 1.21rc2
+go 1.21
 
 require (
 	github.com/riza-io/grpc-go v0.2.0
