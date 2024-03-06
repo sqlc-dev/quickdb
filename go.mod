@@ -5,7 +5,7 @@ go 1.21
 require (
 	github.com/riza-io/grpc-go v0.2.0
 	google.golang.org/grpc v1.58.1
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.33.0
 )
 
 require (
